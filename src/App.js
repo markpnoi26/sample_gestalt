@@ -7,7 +7,7 @@ function App() {
   return (
     <Box margin={2}>
       <Box>
-        {pulsarToggle && <Pulsar size={100} />}
+        {pulsarToggle && <Pulsar size={50} />}
         <Button
           fullWidth
           color="red"
