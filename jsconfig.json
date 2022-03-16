@@ -1,0 +1,8 @@
+{
+  "compilerOptions": {
+    "baseUrl": "src",
+    "noImplicitAny": false
+  },
+  "include": ["src", "jsconfig.json"],
+  "exclude": ["node_modules"]
+}
